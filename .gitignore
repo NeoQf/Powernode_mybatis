@@ -1,0 +1,5 @@
+# Project exclude paths
+/ch01_hello_mybatis/target/
+/ch02_mybatis_dao/target/
+/ch03_proxy_dao/target/
+/ch04_param/target/

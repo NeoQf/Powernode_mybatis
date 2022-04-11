@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch04_param" />
+        <module name="ch05_return_result" />
+        <module name="ch01_hello_mybatis" />
+        <module name="ch03_proxy_dao" />
+        <module name="ch02_mybatis_dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01_hello_mybatis" target="1.8" />
+      <module name="ch02_mybatis_dao" target="1.8" />
+      <module name="ch03-proxy-dao" target="1.8" />
+      <module name="ch03_proxy_dao" target="1.8" />
+      <module name="ch04_param" target="1.8" />
+      <module name="ch05_return_result" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

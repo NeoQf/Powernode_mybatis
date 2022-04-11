@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Powernode_mybatis.iml" filepath="$PROJECT_DIR$/Powernode_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01_hello_mybatis/ch01_hello_mybatis.iml" filepath="$PROJECT_DIR$/ch01_hello_mybatis/ch01_hello_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02_mybatis_dao/ch02_mybatis_dao.iml" filepath="$PROJECT_DIR$/ch02_mybatis_dao/ch02_mybatis_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_proxy_dao/ch03_proxy_dao.iml" filepath="$PROJECT_DIR$/ch03_proxy_dao/ch03_proxy_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_param/ch04_param.iml" filepath="$PROJECT_DIR$/ch04_param/ch04_param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_return_result/ch05_return_result.iml" filepath="$PROJECT_DIR$/ch05_return_result/ch05_return_result.iml" />
+    </modules>
+  </component>
+</project>
